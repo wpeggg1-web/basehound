@@ -2,7 +2,7 @@
 
 > **On-chain intelligence agent for the Base ecosystem — built on Hermes Agent Framework**
 
-BASEHOUND is an AI-powered crypto intelligence agent that hunts DeFi alpha, analyzes tokens, and profiles wallets — all natively on Base. Deploy it as a Telegram bot or CLI tool with zero centralized backend.
+BASEHOUND is an AI powered crypto intelligence agent that hunts DeFi alpha, analyzes tokens, and profiles wallets all natively on Base. Deploy it as a Telegram bot or CLI tool with zero centralized backend.
 
 ---
 
